@@ -17,3 +17,7 @@ $${\color{#dca6e8} \space ִֶָ🪽་༘}$$
 <div align="left">
   <span style="color: #dca6e8;">⚚</span>
 </div>
+
+<div align="left">
+  Это сообщение будет выровнено по левому краю.
+</div>
