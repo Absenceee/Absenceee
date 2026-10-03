@@ -10,4 +10,9 @@ $${\color{#dca6e8} \space Haiii \space dear \space strangers!🫖}$$
 $${\color{#dca6e8} \space Would  \space you \space like \space to \space find \space a \space travelling \space companion?}$$ 
 </p>
 
+<p aligh="center">
+$${\color{#dca6e8} \space ִֶָ🪽་༘}$$ 
+</p>
+
+
 
