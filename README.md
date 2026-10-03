@@ -2,7 +2,7 @@
 $${\color{#dca6e8} \space Haiii \space dear \space strangers!🫖}$$ 
 </p>
 
-<p aligh="center">
+<p align="center">
 <img width="736" height="414" alt="завантаження (71)" src="https://github.com/user-attachments/assets/43e2dba6-f94a-4031-9384-22c5bc9d2ca4" />
 </p>
 
@@ -18,15 +18,12 @@ $${\color{#dca6e8} \space ִֶָ🪽་༘}$$
 
 $\color{#dca6e8}{\text{⚚}}$
 
-</div>
+$\color{#dca6e8}{\text{\textit{Would you like to join me for a cup of warm tea whilst we have a nice chat?}}}$
 
-<div align="left">
+<details>
+ <summary>
+  $${\color{#dca6e8} \space DNI}$$  
+ </summary>
+ $${\color{#c3110c} \space Sexists,animal \space abusers, paraphiles \space(pedophiles, necrophiles, zoophiles) \space racism, etc.}$$  
+ 
 
-$\color{#dca6e8}{\text{Would you like to join me for a cup of warm tea whilst we have a nice chat?}}$ 
-
-</div>
-<div align="left">
-
-$\color{#dca6e8}{\text{warm tea whilst we have a nice chat?}}$ 
-
-</div>
