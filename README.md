@@ -15,9 +15,7 @@ $${\color{#dca6e8} \space ִֶָ🪽་༘}$$
 </p>
 
 <div align="left">
-<span style="color: #dca6e8;">⚚</span>
-$${\color{red}\text{Этот текст красный}}$$  
+  <span style="color: #dca6e8;">⚚₊ ⊹ </span>
 </div>
-
 
 
