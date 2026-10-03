@@ -7,7 +7,7 @@ $${\color{#dca6e8} \space Haiii \space dear \space strangers!🫖}$$
 </p>
 
 <p align="center">
-$${\color{#dca6e8} \space Would  \space you \space like \space to \space KMFDM}$$ 
+$${\color{#dca6e8} \space Would  \space you \space like \space to \space find \space a \space travelling \space companion?}$$ 
 </p>
 
 
