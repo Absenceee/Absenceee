@@ -24,6 +24,13 @@ $\color{#dca6e8}{\text{\textit{Would you like to join me for a cup of warm tea w
  <summary>
   $${\color{#dca6e8} \space DNI}$$  
  </summary>
- $${\color{#c3110c} \space Sexists,animal \space abusers, paraphiles \space(pedophiles, necrophiles, zoophiles) \space racism, etc.}$$  
- 
+ $${\color{#c3110c} \space Sexists, animal \space abusers, paraphiles \space(pedophiles, necrophiles, zoophiles) \space racism, etc.}$$  
+</details>
 
+</div>
+
+<div align="left">
+<details>
+  <summary> 
+   $${\color{#dca6e8} \space Any \space questions?}$$ 
+  </summary>
