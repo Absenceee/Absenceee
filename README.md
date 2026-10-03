@@ -6,3 +6,8 @@ $${\color{#dca6e8} \space Haiii \space dear \space strangers!🫖}$$
 <img width="736" height="414" alt="завантаження (71)" src="https://github.com/user-attachments/assets/43e2dba6-f94a-4031-9384-22c5bc9d2ca4" />
 </p>
 
+<p align="center">
+$${\color{#dca6e8} \space Would  \space you like \space Hate \space -\space KMFDM}$$ 
+</p>
+
+
