@@ -19,5 +19,8 @@ $${\color{#dca6e8} \space ִֶָ🪽་༘}$$
 </div>
 
 <div align="left">
-<span style="color: #9b59b6;">boooo</span>
+  <span style="color: #e74c3c;">Красный</span>, 
+  <span style="color: #f39c12;">оранжевый</span>, 
+  <span style="color: #2ecc71;">зеленый</span> и 
+  <span style="color: #3498db;">синий</span> текст слева!
 </div>
