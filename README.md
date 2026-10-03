@@ -15,7 +15,7 @@ $${\color{#dca6e8} \space ִֶָ🪽་༘}$$
 </p>
 
 <div align="left">
-  Этот текст слева
+ $${\color{#dca6e8} \space ִֶָ🪽་༘}$$ 
 </div>
 
 
