@@ -15,7 +15,5 @@ $${\color{#dca6e8} \space ִֶָ🪽་༘}$$
 </p>
 
 <div align="left">
-$\color{#dca6e8}{\text{⚚ Ваш текст}}$ 
+  <span style="color: #dca6e8;">⚚ Текст здесь станет фиолетовым</span>
 </div>
-
-
