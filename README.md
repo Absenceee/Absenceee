@@ -22,6 +22,11 @@ $\color{#dca6e8}{\text{⚚}}$
 
 <div align="left">
 
-$\color{#dca6e8}{\text{Would you like to join me for a cup of warm tea whilst we have a nice chat?}}$
+$\color{#dca6e8}{\text{Would you like to join me for a cup of}}$ 
+
+</div>
+<div align="left">
+
+$\color{#dca6e8}{\text{warm tea whilst we have a nice chat?}}$ 
 
 </div>
