@@ -1,4 +1,4 @@
 <p aligh="center">
-$${\color{#7c687e} \space Haiii \space dear \space strangers!🫖}$$ 
+$${\color{#dca6e8} \space Haiii \space dear \space strangers!🫖}$$ 
 </p>
 
