@@ -19,5 +19,5 @@ $${\color{#dca6e8} \space ִֶָ🪽་༘}$$
 </div>
 
 <div align="left">
-  <font color="#9b59b6">ljhjjhjhjhj/font>
+<span style="color: #9b59b6;">boooo</span>
 </div>
