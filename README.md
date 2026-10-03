@@ -15,7 +15,7 @@ $${\color{#dca6e8} \space ִֶָ🪽་༘}$$
 </p>
 
 <div align="left">
-  <span style="color: #dca6e8;">⚚₊зз ⊹</span>
+$\color{#dca6e8}{\text{⚚ Ваш текст}}$ 
 </div>
 
 
