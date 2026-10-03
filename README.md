@@ -14,5 +14,9 @@ $${\color{#dca6e8} \space Would  \space you \space like \space to \space find \s
 $${\color{#dca6e8} \space ִֶָ🪽་༘}$$ 
 </p>
 
+<div align="left">
+  Этот текст слева
+</div>
+
 
 
