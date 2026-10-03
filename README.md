@@ -15,7 +15,7 @@ $${\color{#dca6e8} \space ִֶָ🪽་༘}$$
 </p>
 
 <div align="left">
-<span style="color: #00ff00;">⚚</span>
+<span style="color: #dca6e8;">⚚</span>
 </div>
 
 
