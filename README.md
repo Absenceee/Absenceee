@@ -43,3 +43,10 @@ $\color{#dca6e8}{\text{\textit{Would you like to join me for a cup of warm tea w
 $\color{#dca6e8}{\text{⚚}}$
 
 $\color{#dca6e8}{\text{\textit{Or perhaps you’re interested in something more?}}}$
+
+<details>
+ <summary>
+  $${\color{#dca6e8} \space Tap \space here!}$$  
+ </summary>
+ $${\color{#dca6e8} \space Sexists, animal \space abusers, paraphiles \space(pedophiles, necrophiles, zoophiles) \space racism, etc.}$$  
+</details>
