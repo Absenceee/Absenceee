@@ -48,5 +48,12 @@ $\color{#dca6e8}{\text{\textit{Or perhaps you’re interested in something more?
  <summary>
   $${\color{#dca6e8} \space Tap \space here!}$$  
  </summary>
- $${\color{#dca6e8} \space Sexists, animal \space abusers, paraphiles \space(pedophiles, necrophiles, zoophiles) \space racism, etc.}$$  
-</details>
+
+ </div>
+
+<div align="center">
+ <img width="220" height="124" alt="nicole-nicole-genshin" src="https://github.com/user-attachments/assets/ba93beac-f33a-4457-ab1e-845528fc48ba" />
+</p>
+
+
+   
