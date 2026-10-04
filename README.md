@@ -52,7 +52,7 @@ $\color{#dca6e8}{\text{\textit{Or perhaps you’re interested in something more?
  </div>
 
 <div align="center">
- <img width="220" height="124" alt="nicole-nicole-genshin" src="https://github.com/user-attachments/assets/ba93beac-f33a-4457-ab1e-845528fc48ba" />
+ <img width="374" height="211" alt="genshin-impact-genshin" src="https://github.com/user-attachments/assets/94e27ccb-3a97-48df-b253-140aadf9ffbc" />
 </p>
 
 
