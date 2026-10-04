@@ -37,3 +37,9 @@ $\color{#dca6e8}{\text{\textit{Would you like to join me for a cup of warm tea w
    <a href="https://asciiie.atabook.org/">Atabook<a/> 
  </details>
    </p>
+
+   <div align="right">
+
+$\color{#dca6e8}{\text{⚚}}$
+
+$\color{#dca6e8}{\text{\textit{Or perhaps you’re interested in something more?}}}$
