@@ -16,7 +16,7 @@ $${\color{#f2a33b} \space ִֶָ✨་༘}$$
 
 <div align="left">
 
-$\color{#e9ebe0}{\text{⚚}}$
+$\color{#e9ebe0}{\text{⟡}}$
 
 $\color{#efad38}{\text{\textit{Fancy joining in a lively discussion?}}}$
 
@@ -40,13 +40,13 @@ $\color{#efad38}{\text{\textit{Fancy joining in a lively discussion?}}}$
 
    <div align="right">
 
-$\color{#e9ebe0}{\text{⚚}}$
+$\color{#e9ebe0}{\text{⟡}}$
 
-$\color{#dca6e8}{\text{\textit{Or perhaps you’re interested in something more?}}}$
+$\color{#efad38}{\text{\textit{Or perhaps you’re interested in something more?}}}$
 
 <details>
  <summary>
-  $${\color{#dca6e8} \space Tap \space here!}$$  
+  $${\color{#efad38} \space Tap \space here!}$$  
  </summary>
 
  </div>
@@ -56,5 +56,5 @@ $\color{#dca6e8}{\text{\textit{Or perhaps you’re interested in something more?
 </p>
 
 <p align="center">
-  $\color{#dca6e8}{\text{ִֶָ.✦ ݁˖}}$
+  $\color{#802f36}{\text{ִֶָ.✦ ݁˖}}$
 </p>
