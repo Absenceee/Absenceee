@@ -1,17 +1,17 @@
 <p aligh="center">
-$${\color{#dca6e8} \space Haiii \space dear \space strangers!🫖}$$ 
+$${\color{#efad38} \space Hayyyo \space dear \space visitors!🌟}$$ 
 </p>
 
 <p align="center">
-<img width="736" height="414" alt="завантаження (71)" src="https://github.com/user-attachments/assets/43e2dba6-f94a-4031-9384-22c5bc9d2ca4" />
-</p>
+<img width="736" height="414" alt="Lock in_ копія" src="https://github.com/user-attachments/assets/26338c20-884e-4954-beb0-072efaac062d" />
+
 
 <p align="center">
-$${\color{#dca6e8} \space Would  \space you \space like \space to \space find \space a \space travelling \space companion?}$$ 
+$${\color{#efad38} \space Have  \space you \space ever \space wanted \space to \space make \space your \space wildest \space dreams \space come \space true? }$$ 
 </p>
 
 <p aligh="center">
-$${\color{#dca6e8} \space ִֶָ🪽་༘}$$ 
+$${\color{#dca6e8} \space ִֶָ✨་༘}$$ 
 </p>
 
 <div align="left">
