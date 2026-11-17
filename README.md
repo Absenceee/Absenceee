@@ -11,18 +11,18 @@ $${\color{#efad38} \space Have  \space you \space ever \space wanted \space to \
 </p>
 
 <p aligh="center">
-$${\color{#dca6e8} \space ִֶָ✨་༘}$$ 
+$${\color{#f2a33b} \space ִֶָ✨་༘}$$ 
 </p>
 
 <div align="left">
 
-$\color{#dca6e8}{\text{⚚}}$
+$\color{#e9ebe0}{\text{⚚}}$
 
-$\color{#dca6e8}{\text{\textit{Would you like to join me for a cup of warm tea whilst we have a nice chat?}}}$
+$\color{#efad38}{\text{\textit{Fancy joining in a lively discussion?}}}$
 
 <details>
  <summary>
-  $${\color{#dca6e8} \space DNI}$$  
+  $${\color{#efad38} \space DNI}$$  
  </summary>
  $${\color{#c3110c} \space Sexists, animal \space abusers, paraphiles \space(pedophiles, necrophiles, zoophiles) \space racism, etc.}$$  
 </details>
@@ -32,7 +32,7 @@ $\color{#dca6e8}{\text{\textit{Would you like to join me for a cup of warm tea w
 <div align="left">
 <details>
   <summary> 
-   $${\color{#dca6e8} \space Any \space questions?}$$ 
+   $${\color{#efad38} \space Any \space questions?}$$ 
   </summary>
    <a href="https://asciiie.atabook.org/">Atabook<a/> 
  </details>
@@ -40,7 +40,7 @@ $\color{#dca6e8}{\text{\textit{Would you like to join me for a cup of warm tea w
 
    <div align="right">
 
-$\color{#dca6e8}{\text{⚚}}$
+$\color{#e9ebe0}{\text{⚚}}$
 
 $\color{#dca6e8}{\text{\textit{Or perhaps you’re interested in something more?}}}$
 
