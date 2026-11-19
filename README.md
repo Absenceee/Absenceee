@@ -52,8 +52,9 @@ $\color{#efad38}{\text{\textit{Or perhaps you’re interested in something more?
  </div>
 
 <div align="center">
- <img width="374" height="211" alt="genshin-impact-genshin" src="https://github.com/user-attachments/assets/94e27ccb-3a97-48df-b253-140aadf9ffbc" />
-</p>
+ <img width="502" height="471" alt="Знімок екрана 2026-11-18 002432" src="https://github.com/user-attachments/assets/74db543e-c2e5-4351-9401-c9eaabda82e7" />
+
+
 
 <p align="center">
   $\color{#802f36}{\text{ִֶָ.✦ ݁˖}}$
