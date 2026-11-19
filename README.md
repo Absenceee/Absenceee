@@ -54,7 +54,8 @@ $\color{#efad38}{\text{\textit{Or perhaps you’re interested in something more?
 <div align="center">
  <img width="502" height="471" alt="Знімок екрана 2026-11-18 002432" src="https://github.com/user-attachments/assets/74db543e-c2e5-4351-9401-c9eaabda82e7" />
 
-
+<p align="center">
+$${\color{#efad38} \space See  \space you \space soon \space ma \space lil \space starss! }$$ 
 
 <p align="center">
   $\color{#802f36}{\text{ִֶָ.✦ ݁˖}}$
