@@ -48,7 +48,8 @@ $\color{#efad38}{\text{\textit{Or perhaps you’re interested in something more?
  <summary>
   $${\color{#efad38} \space Tap \space here!}$$  
  </summary>
-
+ $${\color{#efad38} \space spsx1 \space sp6 \space sx3 \space LVFE \space ESTJ \space LSE }$$  
+</details
  </div>
 
 <div align="center">
